@@ -77,12 +77,3 @@ When a user requests a list of places based on certain criteria, the following s
 This document was created to serve as a **comprehensive guide** for the development of the HBnB system. It combines high-level architecture, business logic design, and interaction flows to ensure a smooth implementation process.
 
 ---
-
-### 📌 Key Points:
-- Maintain consistency across all layers of the system.
-- Use this document as a **reference** during the development and testing phases.
-- If any issues or discrepancies are found, please report them to the development team.
-
----
-
-> **Note:** For any questions or clarifications, feel free to contact the project maintainers. Contributions to improve this document are always welcome!
