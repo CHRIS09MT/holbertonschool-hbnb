@@ -1,0 +1,66 @@
+/* 
+  This is a SAMPLE File to get you started. Follow the instructions on the project to complete the tasks. 
+  You'll probably need to override some of theese styles.
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+
+.place-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    flex:1; /* Flex properties for responsive layout */
+    min-width: 300px; /* Maximum width for the card */
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.place-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.details-button {
+    background-color: #ff9500;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.details-button:hover {
+    background-color: #e08700;
+}
